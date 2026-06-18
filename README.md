@@ -10,8 +10,8 @@ Il sito è dedicato al film "Hidden Figures" e contiene informazioni sul film, i
 
 ## Tecnologie utilizzate
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 ## Funzionalità
 
